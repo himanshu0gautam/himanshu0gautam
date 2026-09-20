@@ -8,10 +8,13 @@
 
 🌱 Currently learning **Scalable Systems, DevOps, Cloud & Digital Marketing**.
 
-🤝 Open to collaborating on **open-source and full-stack projects**.
+🤝 Open to collaborating on **open-source and full-stack projects <br>
 
-> **Build • Learn • Debug • Improve • Repeat 🚀**
-<br><br>Ask me about<br>⚛️ React.js<br>🟨 JavaScript<br>🟢 Node.js & Express.js<br>🍃 MongoDB<br>🐬 MySQL<br>🔐 JWT & Authentication<br>🔌 REST APIs<br>🔴 Redis<br>🐇 RabbitMQ<br>🎨 GSAP & ScrollTrigger<br>🌐 WebRTC<br>🔒 Web Crypto API & E2EE concepts<br>🐳 Docker<br>💻 MERN Stack Development<br><br>⚡ Fun fact<br><br>I don't consider bugs as problems — I consider them free debugging lessons. 😄
+
+  **Build • Learn • Debug • Improve • Repeat 🚀**
+
+  
+<br><br>Ask me about<br>⚛️ React.js 🟨 JavaScript 🟢 Node.js & Express.js 🍃 MongoDB 🐬 MySQL 🔐 JWT & Authentication 🔌 REST APIs 🔴 Redis  🎨 GSAP & ScrollTrigger 🌐 WebRTC 🔒 Web Crypto API & E2EE concepts 🐳 Docker 💻 MERN Stack Development<br><br>⚡ Fun fact<br><br>I don't consider bugs as problems — I consider them free debugging lessons. 😄
 
 
 ## 🌐 Socials:
